@@ -9,5 +9,5 @@
   <li>CSS</li>
   <li>JavaScript</li>
 </ul>
-<a href="" target="_blank">CLICK HERE TO SEE THE PROJECT!</a>
-<img src="">
+<a href="https://crixsanti.github.io/JoKenPo/" target="_blank">CLICK HERE TO SEE THE PROJECT!</a>
+<img src="https://raw.githubusercontent.com/crixsanti/JoKenPo/refs/heads/main/jokenpo.png">
