@@ -5,7 +5,10 @@
 }
 
 body {
-    background-image: url("img/pedra-papel-tesoura.png");
+    background-image: url("img/background-jokenpo.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     background-size: cover;
     display: flex;
     justify-content: center;
@@ -63,6 +66,13 @@ button:hover {
     background-color: #0DDCFF;
 }
 
+.box-result {
+    background-color: #ffffffc2;
+    width: 95%;
+    text-align: center;
+    border-radius: 10px;
+}
+
 p {
     font-weight: bold;
     margin-bottom: 10px;
@@ -79,4 +89,12 @@ p {
 
 .machine-score {
     color: #FF2C1C;
+}
+
+@media (max-width: 600px) {
+    body {
+        background-image: url('img/background-jokenpo-mobile.png');
+        background-size: cover;
+        background-position: center;
+    }
 }
